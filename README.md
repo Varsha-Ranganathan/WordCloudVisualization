@@ -68,8 +68,7 @@ everytime around.
 5. gword.js is the JavaScript file written by wordjs.py
 6. output can be viewed in gword.htm
 
-(To be able to view the word cloud, sqlite must be installed and all these scripts must be executed in order)
-(Attached a non-dynamic pie-chart of a smaller version of this project for reference)
+(Download the set of files and extract them to view the output)
 --------
 R.Varsha 29 July 2020 19:16 India
 
