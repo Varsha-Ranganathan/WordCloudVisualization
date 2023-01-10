@@ -63,7 +63,7 @@ everytime around.
 
 1. cleanup.py to pull data from website
 2. wordcount.py to count the usage of words from the statements
-3. sortcount.py to arrabge the data from wordcount.py in descending order
+3. sortcount.py to arrange the data from wordcount.py in descending order
 4. wordjs.py to write javascript file for the word cloud
 5. gword.js is the JavaScript file written by wordjs.py
 6. output can be viewed in gword.htm
